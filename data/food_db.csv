@@ -1,0 +1,70 @@
+id,name,kcal_100g,prot_100g,carb_100g,fat_100g,portion_min,portion_max,tags,price
+1,Greek Yogurt,57,10,4,0,125,200,latte_dolce;latte_dolce_col;latte_dolce_sna;alimento_jolly,1.20
+2,Whole Eggs,155,13,1,11,60,120,uova;uova_col;uova_cen,0.60
+3,Egg Whites,50,10,1,0,100,200,uova;uova_col;alimento_jolly,0.80
+4,Turkey Breast,112,22.5,1.25,1.25,50,100,carne;carne_col;carne_sna,2.00
+5,Rusk Crackers,400,13,80,6.5,20,40,carbo_dolci;carbo_dolci_col,0.40
+6,Oats,380,14,60,6,30,60,carbo_dolci;carbo_dolci_col;alimento_jolly,0.50
+7,Whole Grain Cookies,450,7.5,75,15,20,40,carbo_dolci;carbo_dolci_col,0.60
+8,Whole Wheat Pasta,350,13.75,68.75,2.5,60,120,carbo_salati;carbo_salati_pra;alimento_jolly,0.30
+9,Basmati Rice,362,8.75,77.5,1.25,60,120,carbo_salati;carbo_salati_pra;alimento_jolly,0.40
+10,Spelt,337,12.5,62.5,2.5,60,120,carbo_salati;carbo_salati_pra,0.50
+11,Chicken Breast,110,20.7,0,2,150,250,carne;carne_pra;carne_cen,2.50
+12,Beef Steak,167,20,0,8,150,250,carne;carne_pra;carne_cen,4.00
+13,Lean Burger Patty,147,18.7,0,6.7,150,200,carne;carne_pra;carne_cen,3.00
+14,Fresh Salmon,200,20,0,12.7,120,180,pesce;pesce_pra;pesce_cen,6.00
+15,Cod,80,18,0,0.5,150,250,pesce;pesce_pra;pesce_cen,3.50
+16,Canned Tuna (natural),98,23.2,0,0.9,80,160,pesce;pesce_pra;pesce_sna,2.00
+17,Smoked Salmon,180,20,0,10,40,80,pesce;pesce_col;pesce_sna,3.00
+18,Canned Chickpeas,120,7,17.5,2,120,200,legumi;legumi_pra;legumi_cen,1.00
+19,Lentils,115,9,20,0.5,120,200,legumi;legumi_pra;legumi_cen,1.00
+20,Borlotti Beans,105,7,15,0.5,120,200,legumi;legumi_pra;legumi_cen,1.00
+21,Whole Grain Bread,250,8.3,46.7,3.3,40,80,carbo_salati;carbo_salati_col;carbo_salati_cen;alimento_jolly,0.40
+22,Potatoes,76,2,17.2,0,200,350,carbo_salati;carbo_salati_cen;alimento_jolly,0.50
+23,Rice Cakes,392,10.7,85.7,3.6,15,30,carbo_salati;carbo_salati_sna,0.30
+24,Whole Grain Crackers,433,13.3,66.7,16.7,20,40,carbo_salati;carbo_salati_sna,0.40
+25,Parmesan Cheese,400,33.3,0,26.7,15,30,latte_salato;latte_salato_pra;latte_salato_cen,1.50
+26,Walnuts,650,15,5,65,15,30,grassi;grassi_col;grassi_sna,0.80
+27,Almonds,600,20,5,50,15,30,grassi;grassi_col;grassi_sna,0.70
+28,Extra Virgin Olive Oil,900,0,0,100,5,15,grassi;grassi_pra;grassi_cen;alimento_jolly,0.20
+29,Avocado,160,2,8,15,50,100,grassi;grassi_col;grassi_pra;grassi_cen,1.50
+30,Zucchini,15,1,2,0,100,250,verdure;verdure_pra;verdure_cen,1.00
+31,Mixed Salad,20,1,3,0,60,120,verdure;verdure_pra;verdure_cen,1.00
+32,Spinach,25,3,1,0,100,200,verdure;verdure_pra;verdure_cen,1.50
+33,Broccoli,30,3,2,0,100,200,verdure;verdure_pra;verdure_cen,1.20
+34,Apple,52,0,13,0,150,200,frutta;frutta_col;frutta_sna,0.40
+35,Banana,89,0.9,22.3,0,80,120,frutta;frutta_col;frutta_sna,0.50
+36,Orange,47,0.7,10,0,150,200,frutta;frutta_col;frutta_sna,0.40
+37,Ricotta Cheese,150,8,4,11,100,150,latte_dolce;latte_dolce_col;latte_dolce_sna,1.00
+38,Cottage Cheese,87,12,2,3.3,100,180,latte_salato;latte_salato_col;latte_salato_sna,1.20
+39,Bresaola,150,33.3,0,1.7,40,80,carne;carne_sna;carne_cen,3.50
+40,Lean Prosciutto,217,26.7,0,11.7,40,80,carne;carne_sna;carne_cen,3.00
+41,Whey Protein,367,80,6.7,3.3,20,40,latte_dolce;latte_dolce_col;latte_dolce_sna,1.00
+42,Kefir,45,3.5,4,1.5,150,250,latte_dolce;latte_dolce_col;latte_dolce_sna,1.00
+43,Couscous,350,12.5,72.5,1.25,60,120,carbo_salati;carbo_salati_pra,0.40
+44,Quinoa,362,13.75,62.5,6.25,60,120,carbo_salati;carbo_salati_pra,0.80
+45,Potato Gnocchi,130,3,29,0.5,150,250,carbo_salati;carbo_salati_pra,1.20
+46,Polenta,350,7.5,75,1.25,60,120,carbo_salati;carbo_salati_pra,0.30
+47,Rye Bread,233,8.3,41.7,3.3,40,80,carbo_salati;carbo_salati_col;carbo_salati_cen,0.60
+48,Sweet Potatoes,84,1.6,19.6,0,200,350,carbo_salati;carbo_salati_cen,0.80
+49,Pork Loin,133,20,0,5.3,150,250,carne;carne_pra;carne_cen,2.00
+50,Lean Ground Beef,140,20,0,6.7,150,200,carne;carne_pra;carne_cen,3.00
+51,Sea Bream,120,18.7,0,4.7,150,250,pesce;pesce_pra;pesce_cen,5.00
+52,Shrimp,87,16.7,0.7,1.3,120,200,pesce;pesce_pra;pesce_cen,4.50
+53,Swordfish,120,20,0,4,150,250,pesce;pesce_pra;pesce_cen,6.00
+54,Canned Mackerel,178,22.2,0,10,60,120,pesce;pesce_pra;pesce_sna,2.50
+55,Frozen Peas,80,6,10,0.5,100,180,legumi;legumi_pra;legumi_cen,1.00
+56,Edamame,120,10.7,9.3,5.3,80,150,legumi;legumi_sna;legumi_cen,2.50
+57,Plain Tofu,87,8,2,4.7,100,180,legumi;legumi_pra;legumi_cen,1.50
+58,Chickpea Hummus,240,8,12,16,30,60,legumi;legumi_sna,1.20
+59,Dark Chocolate 85%,600,13.3,20,46.7,10,25,grassi;grassi_col;grassi_sna,0.50
+60,Peanut Butter,633,26.7,13.3,53.3,10,25,grassi;grassi_col;grassi_sna,0.40
+61,Chia/Flax Seeds,500,20,10,40,5,15,grassi;grassi_col;grassi_sna,0.30
+63,Carrots,40,1,9,0,100,200,verdure;verdure_pra;verdure_cen,0.50
+64,Green Beans,30,2,4,0,100,200,verdure;verdure_pra;verdure_cen,1.50
+65,Fennel,10,1,1,0,100,200,verdure;verdure_pra;verdure_cen,1.00
+66,Bell Peppers,25,1,4,0,100,200,verdure;verdure_pra;verdure_cen,1.20
+67,Cauliflower,25,2,2,0,100,200,verdure;verdure_pra;verdure_cen,1.00
+68,Pear,58,0.6,14.3,0,150,200,frutta;frutta_col;frutta_sna,0.50
+69,Kiwi,53,1.3,12,0.7,100,150,frutta;frutta_col;frutta_sna,0.80
+70,Mixed Berries,47,1.3,8,0.7,80,150,frutta;frutta_col;frutta_sna,2.50

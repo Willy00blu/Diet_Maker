@@ -1,0 +1,17 @@
+# Ambienti virtuali
+venv/
+env/
+.venv/
+
+# Cache di Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# File di sistema Mac
+.DS_Store
+
+# Output (Opzionale: se non vuoi salvare i csv generati su GitHub)
+output/
+out/
