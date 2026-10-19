@@ -137,7 +137,7 @@ All nutritional parameters the solver must satisfy:
 | Parameter | Default | Description |
 |-----------|---------|-------------|
 | **Duration (Days)** | 5 | Number of days to plan (1–7) |
-| **Energy (kcal)** | 2200 | Daily calorie target |
+| **Energy (kcal)** | 2000 | Daily calorie target |
 | **Protein %** | 20 | Percentage of daily kcal from protein |
 | **Carbohydrates %** | 55 | Percentage of daily kcal from carbohydrates |
 | **Fat %** | 25 | Percentage of daily kcal from fat |
@@ -146,7 +146,7 @@ All nutritional parameters the solver must satisfy:
 
 The three macro sliders must sum to exactly 100% — otherwise the generate button is disabled and a warning is shown.
 
-**How tolerances work:** If the target is 2200 kcal with a 10% tolerance, the solver accepts any plan between 1980 and 2420 kcal per day. A 50% macro tolerance gives the solver much more flexibility and usually leads to faster solutions.
+**How tolerances work:** If the target is 2000 kcal with a 10% tolerance, the solver accepts any plan between 1800 and 2200 kcal per day. A 50% macro tolerance gives the solver much more flexibility and usually leads to faster solutions.
 
 ---
 
@@ -520,7 +520,7 @@ Enforces that each active meal contributes an appropriate fraction of the daily 
 
 These are configurable from the sidebar popover (as decimal fractions: `0.35` = 35%).
 
-Each slot's constraint uses the **original** `target_kcal` as the reference, meaning the bounds are absolute (e.g. lunch must provide between 770 and 880 kcal when target is 2200). Disabled slots are simply skipped.
+Each slot's constraint uses the **original** `target_kcal` as the reference, meaning the bounds are absolute (e.g. lunch must provide between 700 and 800 kcal when target is 2000). Disabled slots are simply skipped.
 
 ---
 
@@ -644,7 +644,7 @@ Default nutritional targets (used when the GUI is not present or targets are not
 
 ```python
 N_DAYS       = 5       # Diet duration in days
-TARGET_KCAL  = 2200    # Daily calorie target
+TARGET_KCAL  = 2000    # Daily calorie target
 PCT_PROT     = 0.20    # 20% protein
 PCT_CARB     = 0.55    # 55% carbohydrates
 PCT_FAT      = 0.25    # 25% fat

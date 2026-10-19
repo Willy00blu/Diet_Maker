@@ -271,7 +271,7 @@ def _render_daily_targets_section() -> Tuple[int, int, int, int, int, int, int, 
         min_value=DELTA_KCAL_MIN,
         max_value=DELTA_KCAL_MAX,
         value=default_delta_kcal,
-        help="Tolerance on daily calories (e.g. 10% = ±220 kcal on 2200)"
+        help="Tolerance on daily calories (e.g. 10% = ±200 kcal on 2000)"
     )
 
     delta_macro_percentage = st.slider(

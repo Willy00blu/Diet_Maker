@@ -11,7 +11,7 @@ N_DAYS = 5  # Number of diet days (1-7)
 # ==========================================
 # ENERGY BUDGET (TARGET)
 # ==========================================
-TARGET_KCAL = 2200
+TARGET_KCAL = 2000  # a neutral reference intake (the one used on EU food labels)
 
 # ==========================================
 # MACRO SPLIT (PERCENTAGES)

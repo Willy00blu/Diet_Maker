@@ -47,7 +47,7 @@ class NutritionTargets:
         The sum of prot_pct + carb_pct + fat_pct must equal 100.
     """
     n_days: int = 5
-    kcal: int = 2200
+    kcal: int = 2000
     prot_pct: int = 20
     carb_pct: int = 55
     fat_pct: int = 25

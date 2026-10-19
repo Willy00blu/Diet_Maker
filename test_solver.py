@@ -19,7 +19,7 @@ SCENARIO STRUCTURE
 
     # --- Nutrition (all optional) ---
     "n_days":     int,   # 1-7, default 5
-    "kcal":       int,   # daily kcal target, default 2200
+    "kcal":       int,   # daily kcal target, default 2000
     "prot_pct":   int,   # protein %, default 20
     "carb_pct":   int,   # carbohydrate %, default 55
     "fat_pct":    int,   # fat %, default 25
